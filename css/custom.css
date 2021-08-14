@@ -1,0 +1,18 @@
+.slider_area{
+    height: 100vh !important;
+}
+
+.single_serve .serve_icon{
+    margin: 0px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about_page{
+    margin-top: -180px !important;
+}
+
+a{
+    text-decoration: none !important;
+}
