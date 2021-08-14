@@ -1,4 +1,4 @@
-function submitForm(){
+function submitContactForm(){
     $.ajax({
         url: "https://api.apispreadsheets.com/data/16899/",
         type:"post",
