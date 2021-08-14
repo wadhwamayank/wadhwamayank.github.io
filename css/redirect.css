@@ -11,6 +11,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+.main-container .asd {
+  text-align: center;
+}
 .check-container {
   width: 6.25rem;
   height: 7.5rem;

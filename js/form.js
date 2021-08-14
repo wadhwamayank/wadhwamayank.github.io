@@ -4,7 +4,7 @@ function submitForm(){
         type:"post",
         data:$("#contactForm").serializeArray(),
         success: function(){
-            alert("Data Submitted!")
+            window.location.replace("redirect.html");
         },
         error: function(){
             alert("Error")
