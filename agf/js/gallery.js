@@ -15,6 +15,6 @@ function createGallery(foldername, n){
 document.getElementById('covidGallery').innerHTML = createGallery('covid', 18)
 document.getElementById('drawingcompGallery').innerHTML = createGallery('drawingcomp', 18)
 document.getElementById('educationGallery').innerHTML = createGallery('education', 18)
+document.getElementById('sanitationGallery').innerHTML = createGallery('sanitation', 18)
 document.getElementById('holiGallery').innerHTML = createGallery('holi', 18)
 document.getElementById('lohriGallery').innerHTML = createGallery('lohri', 18)
-document.getElementById('sanitationGallery').innerHTML = createGallery('sanitation', 18)
